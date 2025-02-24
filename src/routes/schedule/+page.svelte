@@ -44,7 +44,7 @@
         updateCountdown();
 
         try {
-            const res = await fetch('/src/lib/data/schedule.json');
+            const res = await fetch('/data/schedule.json');
             if (!res.ok) {
                 throw new Error(`Failed to fetch schedule: ${res.status} ${res.statusText}`);
             }

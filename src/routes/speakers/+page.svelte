@@ -9,7 +9,7 @@
 
 	onMount(async () => {
 		try {
-			const res = await fetch('/src/lib/data/speakerData.json');
+			const res = await fetch('/data/speakerData.json');
 			if (!res.ok) {
 				throw new Error(`Failed to fetch speakers: ${res.status} ${res.statusText}`);
 			}

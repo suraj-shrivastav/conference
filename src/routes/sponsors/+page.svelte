@@ -7,7 +7,7 @@
 
 	onMount(async () => {
 		try {
-			const res = await fetch('/src/lib/data/sponsors.json');
+			const res = await fetch('/data/sponsors.json');
 			if (!res.ok) {
 				if (res.status === 404) {
 					throw new Error('Sponsors file not found.');
