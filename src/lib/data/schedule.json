@@ -1,0 +1,74 @@
+[
+    {
+        "date": "2025-03-26",
+        "time": "09:00 - 10:00",
+        "topic": "The Future of AI: Empowering Individuals",
+        "speaker": "Anya Sharma"
+    },
+    {
+        "date": "2025-03-26",
+        "time": "10:30 - 11:30",
+        "topic": "Scalable Cloud Infrastructure with DevOps",
+        "speaker": "Ben Carter"
+    },
+    {
+        "date": "2025-03-26",
+        "time": "12:00 - 13:00",
+        "topic": "Cybersecurity Best Practices: Protecting Digital Assets",
+        "speaker": "Chloe Davis"
+    },
+    {
+        "date": "2025-03-26",
+        "time": "14:00 - 15:00",
+        "topic": "Big Data Analytics: Driving Innovation",
+        "speaker": "David Evans"
+    },
+    {
+        "date": "2025-03-26",
+        "time": "15:30 - 16:30",
+        "topic": "User-Centric Design: Creating Seamless Experiences",
+        "speaker": "Eva Foster"
+    },
+    {
+        "date": "2025-03-27",
+        "time": "09:00 - 10:00",
+        "topic": "Advancements in Robotics and Automation",
+        "speaker": "Gabriel Green"
+    },
+    {
+        "date": "2025-03-27",
+        "time": "10:30 - 11:30",
+        "topic": "Mobile App Development: Understanding User Needs",
+        "speaker": "Hannah Ito"
+    },
+    {
+        "date": "2025-03-27",
+        "time": "12:00 - 13:00",
+        "topic": "Network Security and Optimization: The Digital Backbone",
+        "speaker": "Isaac Jones"
+    },
+    {
+        "date": "2025-03-27",
+        "time": "14:00 - 15:00",
+        "topic": "Blockchain Technology: Trust and Transparency",
+        "speaker": "Julia Kim"
+    },
+    {
+        "date": "2025-03-27",
+        "time": "15:30 - 16:30",
+        "topic": "Game Design and Development: Immersive Experiences",
+        "speaker": "Kevin Lee"
+    },
+    {
+        "date": "2025-03-28",
+        "time": "09:00 - 10:00",
+        "topic": "Quantum Computing: Revolutionizing Problem Solving",
+        "speaker": "Laura Martin"
+    },
+    {
+        "date": "2025-03-28",
+        "time": "10:30 - 11:30",
+        "topic": "Ethical AI: Building a Sustainable Future",
+        "speaker": "Michael Nguyen"
+    }
+]

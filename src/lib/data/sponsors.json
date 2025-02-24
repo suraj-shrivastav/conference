@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Google",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/05/Google-logo.png",
+        "website": "https://www.google.com"
+    },
+    {
+        "name": "NVIDIA",
+        "logo": "https://1000logos.net/wp-content/uploads/2022/02/NVIDIA_logo.png",
+        "website": "https://www.nvidia.com"
+    },
+    {
+        "name": "Amazon",
+        "logo": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo.png",
+        "website": "https://www.amazon.com"
+    },
+    {
+        "name": "Meta",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/10/Meta-Logo.png",
+        "website": "https://about.meta.com/"
+    },
+    {
+        "name": "Microsoft",
+        "logo": "https://1000logos.net/wp-content/uploads/2017/04/Microsoft-Logo.png",
+        "website": "https://www.microsoft.com"
+    },
+    {
+        "name": "IBM",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/05/IBM-logo.png",
+        "website": "https://www.ibm.com"
+    },
+    {
+        "name": "Intel",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/05/Intel-logo.png",
+        "website": "https://www.intel.com"
+    },
+    {
+        "name": "Apple",
+        "logo": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png",
+        "website": "https://www.apple.com"
+    },
+    {
+        "name": "Salesforce",
+        "logo": "https://1000logos.net/wp-content/uploads/2017/08/Salesforce-Logo.png",
+        "website": "https://www.salesforce.com"
+    }
+]

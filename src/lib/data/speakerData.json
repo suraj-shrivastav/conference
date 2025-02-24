@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Anya Sharma",
+        "education": "PhD in Computer Science, Stanford University",
+        "experience": "15 years in AI and Machine Learning",
+        "image": "https://static.vecteezy.com/system/resources/previews/032/319/333/large_2x/ai-generated-executive-person-smile-confidence-attractive-modern-lady-female-office-portrait-beauty-women-adult-caucasian-young-business-professional-lifestyle-closeup-cheerful-businesswoman-looking-happy-face-free-photo.jpg",
+        "quote": "The future of technology is about empowering individuals through intelligent systems.",
+        "organization": {
+            "name": "Innovate AI Labs",
+            "role": "Chief Research Scientist"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/anyasharma",
+            "x": "twitter.com/AnyaSharmaAI"
+        }
+    },
+    {
+        "name": "Ben Carter",
+        "education": "Master's in Software Engineering, MIT",
+        "experience": "10 years in Cloud Computing and DevOps",
+        "image": "https://images.generated.photos/MmgrtECwc2LJyil8BooXCeKUng5zMsj9C0T3SbxRjlw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDE2MTU0LmpwZw.jpg",
+        "quote": "Scalability and reliability are the cornerstones of modern cloud infrastructure.",
+        "organization": {
+            "name": "CloudForge Solutions",
+            "role": "Lead Architect"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/bencarterdev",
+            "x": "twitter.com/BenCarterCloud",
+            "github": "github.com/bencarterdev"
+        }
+    },
+    {
+        "name": "Chloe Davis",
+        "education": "Bachelor's in Cybersecurity, University of California, Berkeley",
+        "experience": "8 years in Ethical Hacking and Security Consulting",
+        "image": "https://images.generated.photos/UeQ1dqHvOiXhSwbcm1c1Ovjns3SQzTFQ8d7u63WQO4M/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDEyOTQ4LmpwZw.jpg",
+        "quote": "Protecting digital assets is not just a job, it's a responsibility.",
+        "organization": {
+            "name": "SecureNet Solutions",
+            "role": "Senior Security Analyst"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/chloedavissec",
+            "x": "twitter.com/ChloeDavisSec"
+        }
+    },
+    {
+        "name": "David Evans",
+        "education": "Master's in Data Science, Carnegie Mellon University",
+        "experience": "12 years in Big Data Analytics and Visualization",
+        "image": "https://images.generated.photos/-_aViJLUPpqdEOpquiq-8YmPDAgQPrXmcP8B-j7vwJs/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjA3MjYwLmpwZw.jpg",
+        "quote": "Data is the new oil, and analytics is the engine that drives innovation.",
+        "organization": {
+            "name": "DataWise Insights",
+            "role": "Principal Data Scientist"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/davidevansdata",
+            "x": "twitter.com/DavidEvansData"
+        }
+    },
+    {
+        "name": "Eva Foster",
+        "education": "Bachelor's in UX Design, Rhode Island School of Design",
+        "experience": "9 years in User Experience and Interface Design",
+        "image": "https://images.generated.photos/Kn_cdJ6JvznIe1rMcQsWHasjBm_LBqA7ID2XPvt5nJA/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDkyODc2LmpwZw.jpg",
+        "quote": "Great design is invisible, but its absence is glaringly obvious.",
+        "organization": {
+            "name": "UserCentric Design",
+            "role": "Lead UX Designer"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/evafosterux",
+            "dribbble": "dribbble.com/evafosterux"
+        }
+    },
+    {
+        "name": "Gabriel Green",
+        "education": "PhD in Robotics, University of Tokyo",
+        "experience": "14 years in Robotics and Automation",
+        "image": "https://images.generated.photos/9m3aI52MEQtXTgiSrCI-ga-1p98MeLXRz5QF_6UiVRA/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODUxNDUwLmpwZw.jpg",
+        "quote": "Robots are not replacing humans, they are enhancing human capabilities.",
+        "organization": {
+            "name": "RoboTech Innovations",
+            "role": "Senior Robotics Engineer"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/gabrielgreenrobo",
+            "youtube": "youtube.com/GabrielGreenRobotics"
+        }
+    },
+    {
+        "name": "Hannah Ito",
+        "education": "Master's in Mobile Development, University of Washington",
+        "experience": "11 years in Mobile App Development and Architecture",
+        "image": "https://images.generated.photos/Bx3UJBAiDeEDAZ5CywUQJQLfkxD4fPsXLbogufSgbIU/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjA5NjcxLmpwZw.jpg",
+        "quote": "Building seamless mobile experiences is about understanding user needs.",
+        "organization": {
+            "name": "MobileFirst Apps",
+            "role": "Mobile Development Lead"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/hannahitomobile",
+            "github": "github.com/hannahitomobile"
+        }
+    },
+    {
+        "name": "Isaac Jones",
+        "education": "Bachelor's in Network Engineering, Georgia Tech",
+        "experience": "7 years in Network Security and Optimization",
+        "image": "https://images.generated.photos/Gfhvm3TaiiEw9Tvr-NKtAAk96bn9z8Y_R06Vm4huDWw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92Ml8w/MzE3MjM2LmpwZw.jpg",
+        "quote": "A robust network is the backbone of any successful digital transformation.",
+        "organization": {
+            "name": "Network Dynamics",
+            "role": "Network Security Engineer"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/isaacjonesnetwork"
+        }
+    },
+    {
+        "name": "Julia Kim",
+        "education": "Master's in Blockchain Technology, Imperial College London",
+        "experience": "6 years in Blockchain Development and Cryptocurrencies",
+        "image": "https://images.generated.photos/xfIiA_bSDUddyt8j_j8hVXLV4blJtQ83aAj37J5ImXs/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NzI1ODI4LmpwZw.jpg",
+        "quote": "Blockchain is more than just cryptocurrency; it's about trust and transparency.",
+        "organization": {
+            "name": "BlockChain Ventures",
+            "role": "Blockchain Architect"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/juliakimblock",
+            "x": "twitter.com/JuliaKimBlock"
+        }
+    },
+    {
+        "name": "Kevin Lee",
+        "education": "Bachelor's in Game Development, DigiPen Institute of Technology",
+        "experience": "13 years in Game Design and Development",
+        "image": "https://images.generated.photos/w-_QIwWr_KIsRRc-mG7quAkL1VaoZdQoyFr7uFzVzew/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92Ml8w/OTQ1OTkzLmpwZw.jpg",
+        "quote": "Creating immersive game experiences is about blending art and technology.",
+        "organization": {
+            "name": "GameCraft Studios",
+            "role": "Lead Game Designer"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/kevinleegames"
+        }
+    },
+    {
+        "name": "Laura Martin",
+        "education": "PhD in Quantum Computing, University of Cambridge",
+        "experience": "16 years in Quantum Computing and Research",
+        "image": "https://images.generated.photos/cyLE5nuJ5y9SZS22of5aY04DrLLhRAqJycFtA4yFQio/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92Ml8w/ODMxMzI4LmpwZw.jpg",
+        "quote": "Quantum computing will revolutionize how we solve complex problems.",
+        "organization": {
+            "name": "QuantumLeap Technologies",
+            "role": "Principal Quantum Researcher"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/lauramartinquantum",
+            "researchgate": "researchgate.net/profile/LauraMartin"
+        }
+    },
+    {
+        "name": "Michael Nguyen",
+        "education": "Master's in AI Ethics, Oxford University",
+        "experience": "5 years in AI Ethics and Policy",
+        "image": "https://images.generated.photos/vLJMn7jpANeVgozE8Rq4IQDILXtLkdizQmgA1mWuVVw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92Ml8w/MDY5MzY4LmpwZw.jpg",
+        "quote": "Ethical AI is not an option, it's a necessity for a sustainable future.",
+        "organization": {
+            "name": "Ethical AI Initiative",
+            "role": "Policy Director"
+        },
+        "social": {
+            "linkedin": "linkedin.com/in/michaelnguyenai",
+            "medium": "medium.com/@michaelnguyenai"
+        }
+    }
+]
