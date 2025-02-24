@@ -14,9 +14,9 @@
 	}
 
 	const socialLinks = {
-		linkedin: 'https://www.linkedin.com/your-page', // Replace with your links
+		linkedin: 'https://www.linkedin.com/in/suraj-shrivastav/', // Replace with your links
 		twitter: 'https://twitter.com/your-page',
-		github: 'https://github.com/your-page',
+		github: 'https://github.com/suraj-shrivastav/',
 		youtube: 'https://www.youtube.com/your-channel'
 	};
 </script>
